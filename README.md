@@ -1,0 +1,2 @@
+# SQL_2018
+Assignment NguyenTuanHuy_51603144 And NguyenTrungTinh_51603330
